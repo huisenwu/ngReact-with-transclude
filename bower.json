@@ -1,0 +1,17 @@
+{
+  "name": "ngReact-with-transclude",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huisenwu/ngReact-with-transclude.git"
+  },
+  "authors":["https://github.com/davidchang/ngReact/graphs/contributors", "huisenwu"],
+  "description": "Add transclude to ngReact",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "react",
+    "ngReact"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ngReact-with-transclude",
+  "version": "1.0.0",
+  "description": "Add tranclude to ngReact",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huisenwu/ngReact-with-transclude.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "react",
+    "ngReact"
+  ],
+  "author": ["https://github.com/davidchang/ngReact/graphs/contributors", "huisenwu"],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "<2.0.0",
+    "react": ">=0.12.0"
+  },
+}
